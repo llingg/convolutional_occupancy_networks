@@ -1,5 +1,6 @@
 # Convolutional Occupancy Networks
-[**Paper**](https://arxiv.org/pdf/2003.04618.pdf) | [**Supplementary**](http://www.cvlibs.net/publications/Peng2020ECCV_supplementary.pdf) | [**Video**](https://www.youtube.com/watch?v=EmauovgrDSM) | [**Teaser Video**](https://youtu.be/k0monzIcjUo) | [**Project Page**](https://pengsongyou.github.io/conv_onet) <br>
+
+This is a modification of the original publication to make some changes and experiments on the code.
 
 <div style="text-align: center">
 <img src="media/teaser_matterport.gif" width="600"/>
